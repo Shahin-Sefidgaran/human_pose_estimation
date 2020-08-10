@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="W:\lightweight-human-pose-estimation-3d-demo.pytorch-master\pose_extractor\wrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W:\lightweight-human-pose-estimation-3d-demo.pytorch-master\pose_extractor\src\extract_poses.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W:\lightweight-human-pose-estimation-3d-demo.pytorch-master\pose_extractor\src\human_pose.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W:\lightweight-human-pose-estimation-3d-demo.pytorch-master\pose_extractor\src\peak.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="W:\lightweight-human-pose-estimation-3d-demo.pytorch-master\pose_extractor\src\extract_poses.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W:\lightweight-human-pose-estimation-3d-demo.pytorch-master\pose_extractor\src\human_pose.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W:\lightweight-human-pose-estimation-3d-demo.pytorch-master\pose_extractor\src\peak.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="W:\lightweight-human-pose-estimation-3d-demo.pytorch-master\pose_extractor\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B3191B03-0F95-3D65-9CF9-352E1DC2EB07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{82463E43-D363-3D11-A126-A033709BFA5A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

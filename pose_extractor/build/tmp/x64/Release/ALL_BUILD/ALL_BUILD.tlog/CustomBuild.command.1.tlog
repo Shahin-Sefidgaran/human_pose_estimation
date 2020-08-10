@@ -1,0 +1,10 @@
+^W:\LIGHTWEIGHT-HUMAN-POSE-ESTIMATION-3D-DEMO.PYTORCH-MASTER\POSE_EXTRACTOR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SW:/lightweight-human-pose-estimation-3d-demo.pytorch-master/pose_extractor -BW:/lightweight-human-pose-estimation-3d-demo.pytorch-master/pose_extractor/build/tmp --check-stamp-file W:/lightweight-human-pose-estimation-3d-demo.pytorch-master/pose_extractor/build/tmp/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,1 @@
+python human_pose_estimation_3d_demo.py -m human-pose-estimation-3d-0001.xml -i 0

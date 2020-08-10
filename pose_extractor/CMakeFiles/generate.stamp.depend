@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/IntelSWTools/openvino_2020.1.033/deployment_tools/open_model_zoo/demos/python_demos/human_pose_estimation_3d_demo/pose_extractor/CMakeLists.txt
+C:/Program Files (x86)/IntelSWTools/openvino_2020.1.033/opencv/cmake/OpenCVConfig-version.cmake
+C:/Program Files (x86)/IntelSWTools/openvino_2020.1.033/opencv/cmake/OpenCVConfig.cmake
+C:/Program Files (x86)/IntelSWTools/openvino_2020.1.033/opencv/cmake/OpenCVModules-debug.cmake
+C:/Program Files (x86)/IntelSWTools/openvino_2020.1.033/opencv/cmake/OpenCVModules-release.cmake
+C:/Program Files (x86)/IntelSWTools/openvino_2020.1.033/opencv/cmake/OpenCVModules.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.14/Modules/FindPackageMessage.cmake

@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native64Bit:WindowsTargetPlatformVersion=10.0.18362.0
+Debug|x64|C:\Program Files (x86)\IntelSWTools\openvino_2020.1.033\deployment_tools\open_model_zoo\demos\python_demos\human_pose_estimation_3d_demo\pose_extractor\CMakeFiles\3.14.0-rc2\|
